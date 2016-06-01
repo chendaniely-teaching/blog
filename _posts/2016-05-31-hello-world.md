@@ -4,7 +4,7 @@ title: "Hello World"
 date: 2016-05-31
 description: Hello World
 tags:
- - Getting_Started
+ - getting started
 ---
 
 Here is a sample post for Jekyll-Clean-Dark theme. 
